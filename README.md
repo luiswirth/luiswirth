@@ -1,7 +1,10 @@
-### Hi there 👋
+# Luis Wirth
 
-<!--
-**LU15W1R7H/LU15W1R7H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Luis' Stats](https://github-readme-stats.vercel.app/api?username=LU15W1R7H&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Luis' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LU15W1R7H&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- **LU15W1R7H/LU15W1R7H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
